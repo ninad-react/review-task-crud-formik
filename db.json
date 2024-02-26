@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "d4fc",
+      "username": "ABC",
+      "email": "abc@gmail.com",
+      "password": "Pass@123",
+      "confirmPassword": "Pass@123",
+      "description": "jwnsjqwdqnwidqwd",
+      "selectOption": "Python",
+      "radioOption": "Female",
+      "birthDate": "11-02-2003"
+    }
+  ]
+}
